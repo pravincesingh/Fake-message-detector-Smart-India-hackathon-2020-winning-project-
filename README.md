@@ -1,1 +1,3 @@
 # Fake-message-detector-Smart-India-hackathon-2020-winning-project-
+
+Fake news has been a hot topic in the last few years in the form of Troll Farms and these Hoax News attempt to create public unrest like Lynching, Cyber-Mobbing, Subvert and influence the public perceptions using social media platforms. So my team "cybotians" worked on this problem in smart india hackathon 2020 with the help of Beauro of police research and development . The team made an android app and a chatbot which include multiple features by which anyone can check if the message they have received is genuine or not , The android app also works on morphed images , In this project I made the Django REST Api for the core algorithms and hosted it on cloud platform.
